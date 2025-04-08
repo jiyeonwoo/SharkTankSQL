@@ -12,6 +12,6 @@ I explored 8 key business questions:
 7. What is the average equity percentage requested by entrepreneurs and how does it compare to the final equity percentage if the pitch is successful? 
 8. Does equity percentage have an impact on the likelihood of a pitch being successful? (Split up equity percentages into deciles, then analyze) 
 
-The SQL queries can be found under "queries.sql". The visualizations of the results can be seen in "visualizations.pdf", and "slidedeck.pdf" contains the visualizations and some written analysis as part of a presentation.
+The SQL queries can be found under ["queries.sql"](https://github.com/jiyeonwoo/SharkTankSQL/blob/main/queries.sql). The visualizations of the results can be seen in ["visualizations.pdf"](https://github.com/jiyeonwoo/SharkTankSQL/blob/main/visualizations.pdf), and ["slidedeck.pdf"](https://github.com/jiyeonwoo/SharkTankSQL/blob/main/slidedeck.pdf) contains the visualizations and some written analysis as part of a presentation.
 
 This project was done for BAX 421: Data Management.
