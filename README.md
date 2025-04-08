@@ -14,4 +14,3 @@ I explored 8 key business questions:
 
 The SQL queries can be found under ["queries.sql"](https://github.com/jiyeonwoo/SharkTankSQL/blob/main/queries.sql). The visualizations of the results can be seen in ["visualizations.pdf"](https://github.com/jiyeonwoo/SharkTankSQL/blob/main/visualizations.pdf), and ["slidedeck.pdf"](https://github.com/jiyeonwoo/SharkTankSQL/blob/main/slidedeck.pdf) contains the visualizations and some written analysis as part of a presentation.
 
-This project was done for BAX 421: Data Management.
